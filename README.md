@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kunalofficial125
 - 👀 I’m a Android and Java Developer
 - 🌱 I’m currently learning ML.
-- 📫 Reach Me At- instagram:kunal_official125
+- 📫 Reach Me At- instagram: kunal_official125, 
                   Mail - codewithmax7@gmail.com
 
 <!---
