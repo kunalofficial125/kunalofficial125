@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kunalofficial125
-- 👀 I’m a Android Developer
+- 👀 I’m an Android Developer
 - 📫 Reach Me At- Mail - codewithmax7@gmail.com
 
 <!---
